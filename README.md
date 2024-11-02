@@ -9,6 +9,6 @@
 - 🌐 Connect on [LinkedIn](http://www.linkedin.com/in/beryl-ben-007763269)
 
 ## 🚀 Skills & Technologies
-- **Languages**: Python, JavaScript, bash scripting
-- **Frameworks**: Django, React
+- **Languages**: Python, JavaScript, bash scripting, SQL.
+- **Frameworks**: Django, React, NIST, ISO/IEC 27001, COBIT.
 
